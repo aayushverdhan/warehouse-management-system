@@ -1,0 +1,18 @@
+# Maven
+wms-backend/target/
+
+# Node
+wms-frontend/node_modules/
+wms-frontend/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
