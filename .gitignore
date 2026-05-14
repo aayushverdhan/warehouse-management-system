@@ -16,3 +16,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Sensitive config
+wms-backend/src/main/resources/application.properties
